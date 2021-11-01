@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SpeedLight-Dev
+- 👀 I’m interested in developing
+- 🌱 I’m currently learning Python and JavaScript
+- 💞️ I’m looking to collaborate on Discord bot
+- 📫 Reach me on Discord at SpeedLight#9568
